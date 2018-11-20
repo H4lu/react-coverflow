@@ -4,6 +4,16 @@
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
+  border: "none";
+  outline: 0;
+}
+.container:focus {
+  border: "none";
+  outline: 0;
+}
+.container:active {
+  border: "none";
+  outline: 0;
 }
 
 .coverflow {
